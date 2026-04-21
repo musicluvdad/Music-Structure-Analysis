@@ -39,3 +39,5 @@ Göttsching completed his "OS" in the 70s and relegated it to a background proce
 
 ### Full Technical Report & Protocol Definitions
 https://note.com/musicluvdad/n/n24d5458dcbe6
+---
+*© 2026 musicluvdad. All rights reserved.*
