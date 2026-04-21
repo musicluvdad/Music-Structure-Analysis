@@ -27,4 +27,4 @@ Holdsworth was a "structuring freak" who rewrote the fundamental architecture of
 https://note.com/musicluvdad/n/n5ae98f176c8f
 
 ### Metadata
-`#AllanHoldsworth` `#StructuralAnalysis` `#Optimization` `#SignalProcessing` `#BuryingTheGrid` `#G.R.I.D_Protocol`
+`#AllanHoldsworth` `#StructuralAnalysis` `#Optimization` `#SignalProcessing` `#BuryingTheGrid`
