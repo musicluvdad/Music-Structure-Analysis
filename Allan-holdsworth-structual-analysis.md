@@ -1,5 +1,5 @@
 # [Analysis Log] Allan Holdsworth: The Burial of the Grid
-[!IMPORTANT]
+> [!IMPORTANT]
 Notice: This is a mirror of the primary archive. The original structural analysis and the full repository of analytical logs are maintained at the source.
 ## Abstract
 This report redefines Allan Holdsworth’s musicality not as "art," but as **"Structural Dominance through Fluidity."** While traditional critics remain stuck in emotional "output," this analysis reverse-engineers the underlying OS. By negating the percussive "points" of the guitar and replacing analog hardware with mathematical logic, Holdsworth succeeded in burying the rhythmic grid, achieving a phase transition into a high-resolution, continuous plane.
