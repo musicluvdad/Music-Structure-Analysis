@@ -2,7 +2,7 @@
 ## A Structural Analysis of Hakushi Hasegawa via YouTube’s "Secret Sky.Live"
 
 > [!IMPORTANT]
-> **Notice:** This is a mirror of my primary archive on [Note.com](https://note.com/musicluvdad/n/n8a62369c7c24). [span_0](start_span)The original structural analysis and the full repository of analytical logs are maintained there.[span_0](end_span)
+> **Notice:** This is a mirror of my primary archive on [Note.com](https://note.com/musicluvdad/n/n8a62369c7c24).The original structural analysis and the full repository of analytical logs are maintained there.
 
 ### Abstract
 [span_1](start_span)This report provides a structural analysis of Hakushi Hasegawa’s performance at "Secret Sky.Live" (2021)[span_1](end_span). [span_2](start_span)We define his expression as a cold historical turning point that neutralizes the traditional "avant-garde"—once rooted in emotional struggle—and replaces it with the precise **deployment** of coordinates[span_2](end_span). [span_3](start_span)By analyzing the 1:1 synchronization between physical computing in Blender and auditory transients, we describe the emergence of a "Steady-State Plasma Universe" and an externalized embodiment[span_3](end_span). [span_4](start_span)This analysis positions Hasegawa as an architect of a new musical axis that offers a hygienic liberation for the post-human, achieving a state of "health" through absolute computational stasis[span_4](end_span).
