@@ -24,7 +24,6 @@ Holdsworth was a "structuring freak" who rewrote the fundamental architecture of
 ---
 
 ### Full Technical Report & Protocol Definitions
-**G.R.I.D. Protocol & Full Analysis:**
 https://note.com/musicluvdad/n/n5ae98f176c8f
 
 ### Metadata
