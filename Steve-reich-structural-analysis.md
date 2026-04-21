@@ -31,7 +31,11 @@ The work is a record of how humans can be optimized into high-precision parts. T
 * **Protocol A (Observation):** Steve Reich - *Music for 18 Musicians* (1998 / Nonesuch)
     * High-resolution capture of section hand-offs and synchronization precision.
 * **Protocol B (Contrast):** Manuel Göttsching - *E2-E4* (1981)
-    * Record of organic phase transition from analog body to system variable.
+    * Record of organic phase transition from analog body to system variable. * 
+
+---
+### Full Technical Report & Protocol Definitions
+https://note.com/musicluvdad/n/nc9dde366624a
 ---
 *© 2026 musicluvdad. All rights reserved.*
 
