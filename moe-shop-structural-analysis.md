@@ -33,7 +33,8 @@ The true value of this device is demonstrated during the commute—the ultimate 
 
 ### Conclusion
 The transition in Moe Shop's recent years toward musical refinement is recorded as a **"functional loss."** As the toxicity of the "transparent lethal poison" evaporates, the once-violent conflict between social defense and pleasure subsides, leaving a state of irresistible loneliness for the observer.
-
+---
+### Full Technical Report & Protocol Definitions
 https://note.com/musicluvdad/n/n755cdfd406ce
 ---
 *© 2026 musicluvdad. All rights reserved.*
