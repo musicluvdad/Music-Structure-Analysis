@@ -28,6 +28,9 @@ The work is a record of how humans can be optimized into high-precision parts. T
 
 ---
 
+
+---
+*© 2026 musicluvdad. All rights reserved.*
 ### Reference Protocols
 * **Protocol A (Observation):** Steve Reich - *Music for 18 Musicians* (1998 / Nonesuch)
     * High-resolution capture of section hand-offs and synchronization precision.
