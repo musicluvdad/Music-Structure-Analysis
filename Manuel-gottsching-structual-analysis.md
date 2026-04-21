@@ -1,6 +1,7 @@
 # Construction of Structure and the Subsequent Burial
 ## Phase Transition of Sovereignty in Manuel Göttsching
-
+> [!IMPORTANT]
+Notice: This is a mirror of the primary archive. The original structural analysis and the full repository of analytical logs are maintained at the source.
 ### Abstract
 This study analyzes the "phase transition of sovereignty" in Manuel Göttsching’s evolution from *Inventions for Electric Guitar* (1975) to *E2-E4* (1981). It explores the shift from active system construction to the radical delegation of authority to algorithmic sequencers, positioning his work as a precursor to posthumanism.
 
