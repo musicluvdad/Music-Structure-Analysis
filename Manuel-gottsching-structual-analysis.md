@@ -34,3 +34,8 @@ The 60-minute cycle of *E2-E4* saturates the brain's cache, freeing the listener
 
 ### Conclusion: Posthumanist Evolution
 Göttsching completed his "OS" in the 70s and relegated it to a background process in the 80s. This abandonment of sovereignty achieves a posthumanist structural freedom. Unlike those striving to be "superhuman" by dominating structures, Göttsching dissolved into the system to serve it.
+
+---
+
+### Full Technical Report & Protocol Definitions
+https://note.com/musicluvdad/n/n24d5458dcbe6
