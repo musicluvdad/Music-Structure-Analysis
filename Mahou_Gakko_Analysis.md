@@ -43,6 +43,9 @@ The album's sequence is a designed "Destructive Test" intended to corner the lis
 
 ### Conclusion: The Re-education Facility
 The title *Mahou Gakko* is an ironic metaphor for a **re-education facility** meant to adapt listeners to an environment where the context of pop music no longer apply. The final track, "Outside," offers no return to the original world, but a state of "contaminated rest". Survivors become addicts of the abnormal high-energy state, seeking the singularity of "Departed" in an eternal, circular recurrence.
+---
 
+### Full Technical Report & Protocol Definitions
+https://note.com/musicluvdad/n/nbd684fa549f0
 ---
 *© 2026 musicluvdad. All rights reserved.*
