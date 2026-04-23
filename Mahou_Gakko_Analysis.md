@@ -15,11 +15,15 @@ Public evaluations often praise the work as a "high-level fusion of pop and comp
 ### 2. Evolution of the Spacetime Model
 The transition across Hasegawa's discography represents a fundamental shift in the listener's role from "observer" to "concerned party".
 
-| Phase | Work | Physical Model | Listener Status |
-| :--- | :--- | :--- | :--- |
-| **I** | *Kusaki Moudo* | **Newtonian Mechanics**: Organic cycles and movement. | Observer at a safe distance. |
-| **II** | *Air Ni Ni* | **Steady-State Plasma**: Self-organization via Birkeland currents. | Distant admirer of cosmic phenomena. |
-| **III** | *Mahou Gakko* | **Gravitational Collapse**: Plasma instability and the Event Horizon. | Inescapable entrapment in a magnetic storm. |
+* **Phase I: *Kusaki Moudo***
+    * **Physical Model:** Newtonian Mechanics (Organic cycles and movement).
+    * **Listener Status:** Observer at a safe distance.
+* **Phase II: *Air Ni Ni***
+    * **Physical Model:** Steady-State Plasma (Self-organization via Birkeland currents).
+    * **Listener Status:** Distant admirer of cosmic phenomena.
+* **Phase III: *Mahou Gakko***
+    * **Physical Model:** Gravitational Collapse (Plasma instability and the Event Horizon).
+    * **Listener Status:** Inescapable entrapment in a magnetic storm.
 
 ### 3. Core Mechanisms: Gravitational Collapse Beats
 The "singularity" of this work is defined by the transformation of rhythm into **Gravitational Collapse Beats**.
